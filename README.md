@@ -1,2 +1,2 @@
 # hello-messenger-bot
-Simple FB Messanger bot(s)
+Simple FB Messenger bot(s)
