@@ -2,13 +2,14 @@
     "name": "hello-messanger-bot",
     "version": "1.0.0",
     "description": "Hello Messenger Bot: sample bot for demo",
-    "main": "app/app.js",
+    "main": "app.js",
     "dependencies": {
         "dotenv": "^4.0.0",
         "messenger-bot": "^2.4.0"
     },
     "devDependencies": {},
     "scripts": {
+        "start": "node app.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
